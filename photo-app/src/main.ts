@@ -33,3 +33,7 @@ console.log('user', user);
 // tsc --project photo-app --watch
 // node photo-app/dist/main.ts
 
+
+// Uso de webpack
+// npm run build -> Lo crean en dist
+// node dist/bundle.js -> corre nuestro proyecto

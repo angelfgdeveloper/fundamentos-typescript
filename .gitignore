@@ -1,2 +1,4 @@
 /photo-app/dist
+/photo-app/node_modules
+
 /types-typescript/dist
